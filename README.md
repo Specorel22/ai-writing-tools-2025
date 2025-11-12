@@ -46,4 +46,4 @@ MIT License—use, fork, profit freely. © 2025 [Your Name/Handle]. Built with �
 
 ---
 
-*Questions? Open an issue or DM on X @yourhandle. Let's automate that income! 💰*
+*Questions? Open an issue or DM. Let's automate that income! 💰*
