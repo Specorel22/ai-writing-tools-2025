@@ -42,7 +42,7 @@ This site is a simple, SEO-optimized affiliate review hub built with vanilla HTM
 Got improvements? PRs welcome! Focus on content accuracy or accessibility tweaks. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## 📄 License
-MIT License—use, fork, profit freely. © 2025 [Your Name/Handle]. Built with ❤️ for the AI hustle.
+MIT License—use, fork, profit freely. © 2025 Salvatore P./writerai2025. Built with ❤️ for the AI hustle.
 
 ---
 
